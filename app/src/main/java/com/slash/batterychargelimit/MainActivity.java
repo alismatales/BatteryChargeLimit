@@ -226,6 +226,7 @@ public class MainActivity extends AppCompatActivity {
         m.put(R.id.store_mode, R.array.store_mode);
         m.put(R.id.battery_charging_enabled, R.array.battery_charging_enabled);
         m.put(R.id.charging_enabled, R.array.charging_enabled);
+        m.put(R.id.enable_charger, R.array.enable_charger);
         return m;
     }
 

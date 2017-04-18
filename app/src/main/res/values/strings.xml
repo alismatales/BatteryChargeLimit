@@ -50,4 +50,10 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="enable_charger">
+        <item>/sys/class/hw_power/charger/charge_data/enable_charger</item>
+        <item>enable_charger (Huawei)</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
 </resources>
